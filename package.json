@@ -7,7 +7,10 @@
         "ghost-api": "v4"
     },
     "license": "MIT",
-    "author": {,
+    "author": {
+        "name": "Radomir S.",
+        "email": "zyziu10@gmail.com"
+    },
     "keywords": [
         "ghost",
         "theme",
